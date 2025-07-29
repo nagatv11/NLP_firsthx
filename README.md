@@ -7,7 +7,7 @@ A multi-label classification and similarity-based NLP pipeline for identifying c
 
 ## Getting Started
 ```bash
-git clone https://github.com/YOUR_USERNAME/firsthx-ml.git
+git clone https://github.com/nagatv11/firsthx-ml.git
 cd firsthx-ml
 pip install -r requirements.txt
 ```
@@ -22,6 +22,3 @@ python train.py
 python predict.py --text "I have chest pain and shortness of breath"
 ```
 
-## TODO
-- Add Flask REST API
-- Add feedback loop for fine-tuning
